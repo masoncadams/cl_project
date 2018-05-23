@@ -12,6 +12,28 @@ h1 {
 }
 
 .link {
-    color:aquamarine;
+    color:aquamarine; 
     font-size: 16px;
+}
+
+h2 {
+    font-family: verdana;
+    font-size: 42px;
+    font-weight: 300;
+    color:white;
+    
+}
+
+p {
+    font-family: verdana;
+    font-size: 21px;
+    color:gray;
+}
+
+#right {
+    text-align: right;
+}
+
+#phone {
+    margin-top:10px;
 }
